@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... [AoC2020](https://adventofcode.com/)
+- 🔭 I’m currently working on ... [AoC2022](https://adventofcode.com/)
 - 🌱 I’m currently learning ... Rust
 - 👯 I’m looking to collaborate on ... Coding projects of all kind
 - 🤔 I’m looking for help with ... Nothing special at the moment 🤔
